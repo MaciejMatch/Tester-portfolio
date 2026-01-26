@@ -1,63 +1,75 @@
+# 👋 Maciej Miszewski – Software Tester | QA Engineer
 
-# 👋 Software Tester | QA Engineer
+I am a **ISTQB Certified Software Tester** with **2+ years of commercial experience** in testing web and desktop applications.
+I specialize in **manual testing, API testing (Postman), and SQL-based data validation**.
+I have experience working in **Agile/Scrum environments**, closely cooperating with developers, product owners, and business stakeholders.
 
-I am a Software Tester with **2 years of commercial experience** in testing desktop/web applications.
-ISTQB Certified Tester (Foundation Level) with strong knowledge of **manual testing, API testing (Postman), and SQL**.
-I am looking for new opportunities to further develop my QA skills and contribute to high-quality software.
+This GitHub repository serves as my **QA portfolio** created for recruitment purposes.
 
 ---
 
 ## 🛠 Skills & Tools
 
-- **Manual Testing**
-  - Test cases & test scenarios
-  - Bug reporting
-  - Exploratory testing
-  - Regression testing
+### 🧪 Testing
+- Manual testing (web & desktop applications)
+- Test case design & test scenarios
+- Bug reporting & defect lifecycle
+- Regression & exploratory testing
+- Acceptance criteria verification
+- Testing according to **ISTQB standards**
 
-- **API Testing**
-  - Postman
-  - REST API (GET, POST, PUT, DELETE)
-  - Response validation
-  - Basic JavaScript tests in Postman
+### 🔌 API Testing
+- Postman
+- REST APIs (GET, POST, PUT, DELETE)
+- Response validation
+- Basic automated checks (JavaScript in Postman)
+- Environment configuration
 
-- **Databases**
-  - SQL (SELECT, JOIN, GROUP BY, subqueries)
-  - Data validation for testing purposes
+### 🗄 Databases
+- SQL for testers
+- Data validation
+- JOINs, subqueries, GROUP BY
+- Verifying data consistency after testing
 
-- **Methodologies & Tools**
-  - Agile / Scrum
-  - Jira
-  - Git & GitHub
-  - ISTQB Foundation Level knowledge
+### ⚙ Tools & Methodologies
+- Jira, Confluence, Redmine
+- Git & GitHub
+- Agile / Scrum
+- ERP & WMS systems
+- MS Office
 
 ---
 
 ## 📂 Portfolio Projects
 
 ### 🔹 Manual Testing Examples
-Repository containing sample:
+Sample documentation demonstrating:
 - Test cases
 - Test scenarios
-- Bug reports  
-📎 **Repo:** `manual-testing-examples`
+- Bug reports
+- Acceptance criteria
+
+📎 Repository: **manual-testing-examples**
 
 ---
 
 ### 🔹 API Testing – Postman
-API test collections created in Postman, including:
-- Test cases for REST APIs
-- Environment configuration
-- Automated checks (status codes, response body)  
-📎 **Repo:** `api-testing-postman`
+Postman collections and environments containing:
+- REST API test cases
+- Status code and response body validation
+- Sample automated checks
+
+📎 Repository: **api-testing-postman**
 
 ---
 
 ### 🔹 SQL for Testers
-SQL queries used for:
+SQL scripts used for:
 - Test data validation
-- Database checks after testing  
-📎 **Repo:** `sql-for-testers`
+- Database verification during testing
+- Supporting manual and API tests
+
+📎 Repository: **sql-for-testers**
 
 ---
 
@@ -65,8 +77,26 @@ SQL queries used for:
 Examples of QA documentation:
 - Test Plan
 - Test Strategy
-- Test Summary Report  
-📎 **Repo:** `test-documentation`
+- Test Summary Report
+
+📎 Repository: **test-documentation**
+
+---
+
+## 💼 Professional Experience
+
+**Software Tester**  
+*Invicta Sp. z o.o.* | 12.2021 – 12.2023  
+- Manual testing of web and desktop applications  
+- Preparing test scenarios, test documentation, and reports  
+- Reporting defects and supporting end users  
+- Active participation in product development  
+
+**Scrum Master**  
+*Invicta Sp. z o.o.* | 05.2023 – 12.2023  
+- Supporting development teams in Agile/Scrum framework  
+- Facilitating Scrum ceremonies  
+- Removing impediments and supporting Product Owner  
 
 ---
 
@@ -75,6 +105,16 @@ Examples of QA documentation:
 
 ---
 
+## 🌍 Languages
+- English – **B2**
+- Polish - **Native**
+
+---
+
 ## 📫 Contact
-- **LinkedIn:** www.linkedin.com/in/maciej-miszewski-b2a8aa17b
-- **Email:** mjmiszewski@wp.pl
+- LinkedIn: www.linkedin.com/in/maciej-miszewski-b2a8aa17b
+- Email: mjmiszewski@wp.pl
+
+---
+
+⭐ This portfolio reflects my practical QA skills and real project experience.
