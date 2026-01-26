@@ -1,16 +1,28 @@
-# 👋 Maciej Miszewski – ISTQB Certified Software Tester | Manual & API Testing | SQL
+# 👋 Maciej Miszewski — ISTQB‑Certified Software Tester | Manual & API Testing | SQL
 
-I am a **ISTQB Certified Software Tester** with **2+ years of commercial experience** in testing web and desktop applications.
-I specialize in **manual testing, API testing (Postman), and SQL-based data validation**.
-I have experience working in **Agile/Scrum environments**, closely cooperating with developers, product owners, and business stakeholders.
+I'm an ISTQB‑Certified Software Tester with over 2 years of commercial experience in testing web and desktop applications. I specialize in manual testing, API testing (Postman), and SQL-based data validation. I have experience working in Agile/Scrum environments, closely cooperating with developers, product owners, and business stakeholders.
 
 This GitHub repository serves as my **QA portfolio** created for recruitment purposes.
 
 ---
 
+## Table of Contents
+- [Skills & Tools](#-skills--tools)
+- [Portfolio Projects](#-portfolio-projects)
+  - [Manual Testing Examples](#-manual-testing-examples)
+  - [API Testing – Postman](#-api-testing--postman)
+  - [SQL for Testers](#-sql-for-testers)
+  - [Test Documentation](#-test-documentation)
+- [Professional Experience](#-professional-experience)
+- [Certifications](#-certifications)
+- [Languages](#-languages)
+- [Contact](#-contact)
+
+---
+
 ## 🛠 Skills & Tools
 
-### 🧪 Testing
+### ��� Testing
 - Manual testing (web & desktop applications)
 - Test case design & test scenarios
 - Bug reporting & defect lifecycle
@@ -49,7 +61,7 @@ Sample documentation demonstrating:
 - Bug reports
 - Acceptance criteria
 
-📎 Repository: **manual-testing-examples**
+📎 Repository: [manual-testing-examples](https://github.com/MaciejMatch/manual-testing-examples)
 
 ---
 
@@ -59,7 +71,7 @@ Postman collections and environments containing:
 - Status code and response body validation
 - Sample automated checks
 
-📎 Repository: [**API-Testing-in-Postman**](https://github.com/MaciejMatch/API-Testing-in-Postman.git)
+📎 Repository: [API-Testing-in-Postman](https://github.com/MaciejMatch/API-Testing-in-Postman)
 
 ---
 
@@ -69,7 +81,7 @@ SQL scripts used for:
 - Database verification during testing
 - Supporting manual and API tests
 
-📎 Repository: [**Data-Verification**](https://github.com/MaciejMatch/Data-verification.git)
+📎 Repository: [Data-verification](https://github.com/MaciejMatch/Data-verification)
 
 ---
 
@@ -79,7 +91,7 @@ Examples of QA documentation:
 - Test Strategy
 - Test Summary Report
 
-📎 Repository: **test-documentation**
+📎 Repository: [test-documentation](https://github.com/MaciejMatch/test-documentation)
 
 ---
 
@@ -112,8 +124,8 @@ Examples of QA documentation:
 ---
 
 ## 📫 Contact
-- LinkedIn: www.linkedin.com/in/maciej-miszewski-b2a8aa17b
-- Email: mjmiszewski@wp.pl
+- LinkedIn: [Maciej Miszewski](https://www.linkedin.com/in/maciej-miszewski-b2a8aa17b)  
+- Email: [mjmiszewski@wp.pl](mailto:mjmiszewski@wp.pl)
 
 ---
 
