@@ -1,4 +1,4 @@
-# 👋 Maciej Miszewski – Software Tester | QA Engineer
+# 👋 Maciej Miszewski – ISTQB Certified Software Tester | Manual & API Testing | SQL
 
 I am a **ISTQB Certified Software Tester** with **2+ years of commercial experience** in testing web and desktop applications.
 I specialize in **manual testing, API testing (Postman), and SQL-based data validation**.
