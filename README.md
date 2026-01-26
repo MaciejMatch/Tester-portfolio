@@ -94,7 +94,7 @@ Examples of QA documentation:
 
 **Scrum Master**  
 *Invicta Sp. z o.o.* | 05.2023 – 12.2023  
-- Supporting development teams in Agile/Scrum framework  
+- Supporting development teams in Scrum framework  
 - Facilitating Scrum ceremonies  
 - Removing impediments and supporting Product Owner  
 
