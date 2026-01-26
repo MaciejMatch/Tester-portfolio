@@ -22,7 +22,7 @@ This GitHub repository serves as my **QA portfolio** created for recruitment pur
 
 ## 🛠 Skills & Tools
 
-### ��� Testing
+### 🔍 Testing
 - Manual testing (web & desktop applications)
 - Test case design & test scenarios
 - Bug reporting & defect lifecycle
