@@ -95,6 +95,7 @@ Examples of QA documentation:
 
 ---
 
+
 ## 💼 Professional Experience
 
 **Software Tester**  
@@ -102,13 +103,26 @@ Examples of QA documentation:
 - Manual testing of web and desktop applications  
 - Preparing test scenarios, test documentation, and reports  
 - Reporting defects and supporting end users  
+- Verification of acceptance criteria  
 - Active participation in product development  
 
 **Scrum Master**  
 *Invicta Sp. z o.o.* | 05.2023 – 12.2023  
 - Supporting development teams in Scrum framework  
-- Facilitating Scrum ceremonies  
+- Facilitating Scrum ceremonies (Daily, Sprint Planning, Review, Retrospective)  
 - Removing impediments and supporting Product Owner  
+- Ensuring compliance with Agile best practices  
+
+**Junior Logistics Systems Specialist**  
+*LPP S.A.* | 11.2019 – 11.2020  
+- Performing non-functional testing of logistics systems (WMS, MFC)  
+- Verifying correctness and stability of system integrations  
+- Analyzing, validating, and reporting data related to logistics processes  
+- Handling user-reported issues and cooperating with external system vendors  
+- Supporting system development and administration  
+- Configuration and testing of mobile terminals (Motorola, Symbol, Bluebird)  
+
+
 
 ---
 
