@@ -59,7 +59,7 @@ Postman collections and environments containing:
 - Status code and response body validation
 - Sample automated checks
 
-📎 Repository: **api-testing-postman**
+📎 Repository: [**API-Testing-in-Postman**](https://github.com/MaciejMatch/API-Testing-in-Postman.git)
 
 ---
 
