@@ -81,7 +81,7 @@ SQL scripts used for:
 - Database verification during testing
 - Supporting manual and API tests
 
-📎 Repository: [Data-verification](https://github.com/MaciejMatch/Data-verification)
+📎 Repository: [SQL](https://github.com/MaciejMatch/Data-verification)
 
 ---
 
