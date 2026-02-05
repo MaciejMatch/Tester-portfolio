@@ -61,7 +61,7 @@ Sample documentation demonstrating:
 - Bug reports
 - Acceptance criteria
 
-📎 Repository: [manual-testing-examples](https://github.com/MaciejMatch/manual-testing-examples)
+📎 Repository: [manual-testing-examples](https://github.com/MaciejMatch/Manual-Testing-Examples)
 
 ---
 
