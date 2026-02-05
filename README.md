@@ -91,7 +91,7 @@ Examples of QA documentation:
 - Test Strategy
 - Test Summary Report
 
-📎 Repository: [test-documentation](https://github.com/MaciejMatch/test-documentation)
+📎 Repository: [test-documentation](https://github.com/MaciejMatch/Test-Documentation)
 
 ---
 
