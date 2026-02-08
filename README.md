@@ -130,7 +130,7 @@ Examples of QA documentation:
 - **ISTQB Certified Tester – Foundation Level**
 - **Future Collars - Certificate Scrum Master**
   
-**File with PDF Certificates**:[Certificates]()
+**File with PDF Certificates**:[Certificates](https://github.com/MaciejMatch/Tester-portfolio/tree/main/Certificate)
 
 ---
 
