@@ -32,7 +32,7 @@ This GitHub repository serves as my **QA portfolio** created for recruitment pur
 
 ### 🔌 API Testing
 - Postman
-- REST APIs (GET, POST, PUT, DELETE)
+- REST APIs (GET, POST, PUT, PATCH, DELETE)
 - Response validation
 - Basic automated checks (JavaScript in Postman)
 - Environment configuration
