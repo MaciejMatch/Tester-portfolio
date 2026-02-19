@@ -2,7 +2,7 @@
 
 I'm an ISTQB‑Certified Software Tester with over 2 years of commercial experience in testing web and desktop applications. I specialize in manual testing, API testing (Postman), and SQL-based data validation. I have experience working in Agile/Scrum environments, closely cooperating with developers, product owners, and business stakeholders.
 
-This GitHub repository serves as my **QA portfolio** created for recruitment purposes.
+This GitHub repository serves as my **Software tester portfolio** created for recruitment purposes.
 
 ---
 
