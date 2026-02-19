@@ -146,4 +146,4 @@ Examples of QA documentation:
 
 ---
 
-⭐ This portfolio reflects my practical QA skills and real project experience.
+⭐ This portfolio reflects my practical skills and real project experience.
